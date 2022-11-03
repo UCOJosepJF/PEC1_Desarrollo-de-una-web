@@ -1,0 +1,22 @@
+{
+  "name": "pec1.-desarrollo-de-una-web",
+  "version": "1.0.0",
+  "description": "Desarrollo Web PEC1",
+  "source": "src/index.html",
+  "browserslist": "> 0.2%, last 2 versions, not dead",
+  "scripts": {
+    "start": "npm-run-all clean parcel:dev",
+    "build": "npm-run-all clean parcel:build",
+    "parcel:dev": "parcel",
+    "parcel:build": "parcel build",
+    "clean": "rimraf dist .parcel-cache"
+  },
+  "keywords": [],
+  "author": "Josep Janer Florit",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "parcel": "latest",
+    "rimraf": "^3.0.2"
+  }
+}
