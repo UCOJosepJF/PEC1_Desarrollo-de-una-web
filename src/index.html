@@ -1,12 +1,71 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8"/>
-    <title>My First Parcel App</title>
-    <link rel="stylesheet" href="styles.css" />
-    <script type="module" src="app.js"></script>
-  </head>
-  <body>
-    <h1>Hello, UOC!</h1>
-  </body>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Lord</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script type="module" src="app.js"></script>
+</head>
+
+<body>
+  <!-- =============== NAVBAR ========================================================= -->
+  <header>
+    <nav class="container">
+      <ul>
+        <li id="nav-logo"><a href="index.html"><img src="img/logo_starLord.webp" alt="Logo"></a></li>
+        <li>
+          <ul class="nav-links">
+            <li><a href="categoria.html">Categoría</a></li>
+            <li><a href="">Presentación</a></li>
+            <li><a href="">Enlaces</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <!-- =============== WALLPAPER ========================================================= -->
+  <section id="wallpaper">
+    <h1>Biografia Star Lord</h1>
+  </section>
+  <!-- =============== PRESENTACIÓN ========================================================= -->
+  <section id="intro" class="container">
+    <p class="pres">Bienvenidos a bordo de la nave espacial de Star Lord. Durante este trayecto por el espacio
+      navegaremos por el planeta Web donde descubriremos toda la biografia del personaje
+      de ficción Star Lord. Abronchenze los cinturos porque estamos a punto de despegar.
+    </p>
+    <img id="arrow-gif" src="img/arrow-gif.gif">
+    <div class="presentation">
+      <a href="#">
+        <figure>
+          <img src="img/wallpaper1.jpg" alt="Chivito uruguayo">
+          <figcaption>Categoría</figcaption>
+        </figure>
+      </a>
+      <a href="#">
+        <figure>
+          <img src="img/wallpaper2.jpg" alt="Chivito uruguayo">
+          <figcaption>Presentación</figcaption>
+        </figure>
+      </a>
+      <a href="#">
+        <figure>
+          <img src="img/wallpaper3.jpg" alt="Chivito uruguayo">
+          <figcaption>Enlaces</figcaption>
+        </figure>
+      </a>
+    </div>
+  </section>
+  <!-- =============== FOOTER ========================================================= -->
+  <footer>
+    <div class="container">
+      <ul id="copyrigth">
+        <li>2022 © Josep Janer Florit</li>
+      </ul>
+    </div>
+  </footer>
+</body>
+
 </html>
