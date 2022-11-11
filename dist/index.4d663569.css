@@ -59,9 +59,7 @@ nav ul li .nav-links li:hover a {
 }
 
 #active {
-  border-bottom: 1px dashed;
-  padding-bottom: 2px;
-  font-weight: 900;
+  color: #fff;
 }
 
 #wallpaper {
@@ -146,6 +144,82 @@ footer .container ul li {
   list-style: none;
 }
 
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 180px;
+  margin-bottom: 40px;
+  font-size: 3rem;
+}
+
+.category {
+  margin-bottom: 30px;
+}
+
+.category dt {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.category dd {
+  border-left: 3px solid #dfdfdf;
+  padding-left: 40px;
+}
+
+.category dt a {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.category dd img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.category dd {
+  padding-top: 0;
+  padding-bottom: 20px;
+  font-size: 20px;
+  line-height: 160%;
+}
+
+#pres-container {
+  margin-bottom: 50px;
+}
+
+.pres-text h3, .pres-text-left h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 2.4rem;
+  font-weight: 900;
+}
+
+.pres-text p, .pres-text-left p {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.pres-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.pres-text-center {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+}
+
+@media (min-width: 380px) {
+  header {
+    height: 140px;
+  }
+}
+
 @media (min-width: 469px) {
   header {
     height: 140px;
@@ -198,6 +272,10 @@ footer .container ul li {
   #wallpaper h1 {
     font-size: 3.8rem;
   }
+
+  .title {
+    margin-top: 115px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -215,6 +293,38 @@ footer .container ul li {
 
   #copyrigth li, #copyrigth li ul {
     display: inline;
+  }
+
+  #pres-container {
+    display: flex;
+  }
+
+  .pres-text, .pres-img, .pres-text-left {
+    flex-basis: 100%;
+  }
+
+  .pres-img {
+    max-width: 1800px;
+  }
+
+  .pres-text h3 {
+    padding-bottom: 10px;
+    padding-right: 30px;
+  }
+
+  .pres-text-left h3 {
+    padding-bottom: 10px;
+    padding-left: 30px;
+  }
+
+  .pres-text p {
+    padding-right: 30px;
+    font-size: 1.4rem;
+  }
+
+  .pres-text-left p {
+    padding-left: 30px;
+    font-size: 1.4rem;
   }
 }
 

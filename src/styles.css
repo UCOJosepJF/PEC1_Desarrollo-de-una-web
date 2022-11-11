@@ -63,10 +63,7 @@ nav ul li .nav-links li:hover a {
 }
 
 #active {
-    font-weight: 900;
-    border-bottom: 1px;
-    border-bottom-style: dashed;
-    padding-bottom: 2px;
+    color: white;
 }
 
 /* =============== WALLPAPER =========================================================*/
@@ -164,7 +161,88 @@ footer .container ul li {
     padding: 10px;
 }
 
+/* =============== CATEGORIAS =========================================================*/
+
+.title {
+    margin-top: 180px;
+    margin-bottom: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+.category dt {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.category dd {
+    padding-left: 40px;
+    border-left: 3px solid rgb(223, 223, 223);
+}
+
+.category dt a {
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.category dd img {
+    padding: 10px;
+    background-color: white;
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+
+}
+
+.category dd {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    line-height: 160%;
+}
+
+/* =============== PRESENTACIÓN =========================================================*/
+
+#pres-container {
+    margin-bottom: 50px;
+}
+
+.pres-text h3, .pres-text-left h3 {
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2.4rem;
+}
+
+.pres-text p, .pres-text-left p {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.pres-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pres-text-center {
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+}
+
 /* =============== MEDIA QUERIES =========================================================*/
+
+@media (min-width: 380px) {
+    header {
+        height: 140px;
+    }
+}
 
 @media (min-width: 469px) {
     header {
@@ -218,6 +296,10 @@ footer .container ul li {
     #wallpaper h1 {
         font-size: 3.8rem;
     }
+
+    .title{
+        margin-top: 115px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -233,8 +315,43 @@ footer .container ul li {
         grid-template-columns: 1fr 1fr 1fr;
     }
 
-    #copyrigth li,  #copyrigth li ul{
+    #copyrigth li,
+    #copyrigth li ul {
         display: inline;
+    }
+
+    #pres-container {
+        display: flex;
+    }
+
+    .pres-text,
+    .pres-img,
+    .pres-text-left {
+        flex-basis: 100%;
+    }
+
+    .pres-img {
+        max-width: 1800px;
+    }
+
+    .pres-text h3 {
+        padding-right: 30px;
+        padding-bottom: 10px;
+    }
+
+    .pres-text-left h3 {
+        padding-left: 30px;
+        padding-bottom: 10px;
+    }
+
+    .pres-text p {
+        font-size: 1.4rem;
+        padding-right: 30px;
+    }
+
+    .pres-text-left p {
+        font-size: 1.4rem;
+        padding-left: 30px;
     }
 
 }
