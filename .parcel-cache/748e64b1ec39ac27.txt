@@ -1,36 +1,4 @@
-10057
-109C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist133137925308501979 1
-137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\cwebp-bin\readme.md133129168487937566 0
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\arch133129168487518081 1
-154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2016\thisBooleanValue.js133119424955380158 0
-121C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\enlaces.html133137923790380834 0
-154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\config-default\test\.babelrc133119417979658195 0
-144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\nth-check\lib\parse.js.map133119417983875915 0
-137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\has-to-string-tag-x133129168488706583 1
-115C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\app.js133119427945778748 0
-117C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules133137890714919331 1
-142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-select\lib\sort.d.ts133119417984799682 0
-173C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-select\lib\attributes.js133129168497518267 0
-153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\fs-extra\lib\ensure\symlink-type.js133129168495026848 0
-165C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133119417979999472 0
-131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\at-least-node133129168492595369 1
-136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\source-map-support133119417981599846 1
-145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object.values\.editorconfig133129168482804839 0
-125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\strtok3133137890712810650 1
-134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\js-yaml.ps1133129168507168594 0
-108C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src133137903578144368 1
-126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\escalade133119417981699859 1
-166C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\domutils\node_modules133129168476613548 1
-149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object-inspect\test\circular.js133119424944766978 0
-151C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\svgo\plugins\removeHiddenElems.js133119417985760090 0
-143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\chalk\source\templates.js133119417980397570 0
-146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\shebang-command\package.json133119424943809301 0
-139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\fs-constants\index.js133129168485423590 0
-162C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-wrapper\node_modules\p-timeout\readme.md133129168496061429 0
-145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\lines-and-columns\README.md133119417980687663 0
-125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\mozjpeg133129168492308454 1
-144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\end-of-stream\package.json133129168486234993 0
-154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object.values\test\implementation.js133129168484975413 0
+10053
 159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@babel\highlight\node_modules\ansi-styles133119417980428116 1
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\config-chain133129168487518081 1
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\resolve\test\dotdot\abc133119424945626069 1
@@ -51,7 +19,7 @@
 148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\watcher\src\binding.cc133119417981299858 0
 172C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-pngquant\node_modules\human-signals\README.md133129168498469217 0
 139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\msgpackr\package.json133119417983785907 0
-123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\categoria.html133137895777237235 0
+123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\categoria.html133137951193752695 0
 163C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2019\OrdinaryDefineOwnProperty.js133119424953051935 0
 146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2017\ToObject.js133119424956540890 0
 174C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\parcel-plugin-imagemin\test\Integration\Basic\image4.svg133129168506179648 0
@@ -91,6 +59,42 @@
 158C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\gifsicle\node_modules\is-stream\index.js133129168496942200 0
 157C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\supports-preserve-symlinks-flag\.github133119424945019882 1
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\unbzip2-stream\README.md133129168490493489 0
+183C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\node\Percentage.js133129168499143468 0
+161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\workers\lib\process\ProcessChild.js133119417984288719 0
+153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\thisStringValue.js133119424955667135 0
+127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\duplexer3133129168488279454 1
+115C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\.gitignore133137929394687249 0
+109C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist133137954338077706 1
+137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\cwebp-bin\readme.md133129168487937566 0
+142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-select\lib\sort.d.ts133119417984799682 0
+173C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-select\lib\attributes.js133129168497518267 0
+153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\fs-extra\lib\ensure\symlink-type.js133129168495026848 0
+165C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133119417979999472 0
+131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\at-least-node133129168492595369 1
+136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\source-map-support133119417981599846 1
+145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object.values\.editorconfig133129168482804839 0
+125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\strtok3133137890712810650 1
+134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\js-yaml.ps1133129168507168594 0
+108C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src133137948981569168 1
+126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\escalade133119417981699859 1
+166C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\domutils\node_modules133129168476613548 1
+149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object-inspect\test\circular.js133119424944766978 0
+151C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\svgo\plugins\removeHiddenElems.js133119417985760090 0
+143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\chalk\source\templates.js133119417980397570 0
+146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\shebang-command\package.json133119424943809301 0
+139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\fs-constants\index.js133129168485423590 0
+162C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-wrapper\node_modules\p-timeout\readme.md133129168496061429 0
+145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\lines-and-columns\README.md133119417980687663 0
+125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\mozjpeg133129168492308454 1
+144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\end-of-stream\package.json133129168486234993 0
+154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object.values\test\implementation.js133129168484975413 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\arch133129168487518081 1
+154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2016\thisBooleanValue.js133119424955380158 0
+121C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\enlaces.html133137950884850628 0
+154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\config-default\test\.babelrc133119417979658195 0
+144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\nth-check\lib\parse.js.map133119417983875915 0
+137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\has-to-string-tag-x133129168488706583 1
+117C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules133137890714919331 1
 160C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@jridgewell\source-map\dist\source-map.mjs133119417982757674 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\htmlnano\docs\docusaurus.config.js133119417982717676 0
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\json-buffer\package.json133129168483636050 0
@@ -98,7 +102,7 @@
 149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\svgo\lib\svgo\css-class-list.js133119417984248703 0
 148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-what\lib\es\types.d.ts.map133119417983755917 0
 170C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\scope133129168499561089 1
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle1.html133137901261383753 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle1.html133137951147381218 0
 172C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\parcel-plugin-imagemin\test\dist\Basic.e31bb0bc.js.map133129168505378358 0
 158C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\string.prototype.trimstart\test\index.js133119424944929901 0
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2016\SymbolDescriptiveString.js133119424955213439 0
@@ -109,10 +113,10 @@
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\HasOwnProperty.js133119424949825561 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2015\CharacterRange.js133119424946787239 0
 159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-build\node_modules\get-stream\license133129168496476425 0
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle2.html133137900167783680 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle2.html133137951086017532 0
 194C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob133119417987086037 1
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-mozjpeg\node_modules\which\LICENSE133129168498846802 0
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle3.html133137901220198268 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle3.html133137951010256605 0
 127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-bigint133119424944979869 1
 171C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133119417993314698 0
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\core\test\fixtures\config\.parcelrc133119417982777667 0
@@ -138,7 +142,7 @@
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\responselike133129168484323715 1
 146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\unbox-primitive\package.json133119424944602312 0
 129C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\mkdirp133129168507168594 0
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle4.html133137901153292085 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\detalle4.html133137950951233621 0
 126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\mdn-data133119417984599666 1
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\utils\test\input133119417985550108 1
 149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\npm-run-all\docs\npm-run-all.md133119424945408250 0
@@ -162,7 +166,7 @@
 165C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\readable-stream\lib\internal\streams\destroy.js133129168487058741 0
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\got\index.js133129168489533453 0
 136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-weakref\LICENSE133119424944264281 0
-119C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\index.html133137907045795215 0
+119C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\index.html133137953799222194 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@types\node\ts4.8\module.d.ts133129168495446706 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\resolve\test\node-modules-paths.js133119424945846801 0
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\coa\node_modules\chalk\templates.js133129168484133715 0
@@ -175,7 +179,7 @@
 163C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\caniuse-lite\data\features\offscreencanvas.js133119417992639214 0
 135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\pump\package.json133129168492195630 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\helpers\isPrimitive.js133119424951250330 0
-126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\presentacion.html133137895569107695 0
+126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\presentacion.html133137950811440677 0
 170C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133119417987360856 0
 160C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\parcel-plugin-imagemin\node_modules\globby133137890712970648 1
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\string.prototype.trimstart\LICENSE133119424944264281 0
@@ -195,7 +199,7 @@
 160C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2016\ObjectDefineProperties.js133119424952723984 0
 171C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\caniuse-lite\data\features\font-variant-alternates.js133119417989686765 0
 144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\v8-compile-cache\README.md133119417981037030 0
-118C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\script.js133137923434172506 0
+118C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\src\script.js133137935918437924 0
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\resolve\test133119424946003060 1
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\QuoteJSONString.js133119424953765167 0
 171C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\parcel-plugin-imagemin\test\dist\image3.97f16852.jpeg133129168503437619 0
@@ -282,7 +286,7 @@
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133119417980428116 0
 162C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\domutils\index.js133129168498141596 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\strip-final-newline\readme.md133129168484303714 0
-142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\2560px-Macarella_16.909e1a50.png133137925209705345 0
+142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\2560px-Macarella_16.909e1a50.png133137954313589024 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-select\lib\attributes.d.ts.map133119417983532985 0
 132C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\unbzip2-stream133129168490463484 1
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\archive-type133129168485025397 1
@@ -825,10 +829,6 @@
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\resolve\test\resolver\other_path\lib133119424946003060 1
 166C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\ansi-styles\readme.md133129168483379252 0
 126C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\download133129168490898859 1
-183C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\node\Percentage.js133129168499143468 0
-161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\workers\lib\process\ProcessChild.js133119417984288719 0
-153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\thisStringValue.js133119424955667135 0
-127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\duplexer3133129168488279454 1
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\npm-run-all\node_modules133119424942133115 1
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2022\IteratorComplete.js133119424951861727 0
 145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\util.promisify\CHANGELOG.md133129168485035407 0
@@ -1097,7 +1097,7 @@
 162C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2017\StrictEqualityComparison.js133119424954815246 0
 149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\readable-stream\CONTRIBUTING.md133129168489533453 0
 138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\has-symbol-support-x133129168489473446 1
-138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala En Turqueta-med.png133137925284595213 0
+138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala En Turqueta-med.png133137954300243544 0
 149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\caniuse-lite\data\regions\GD.js133119417989945256 0
 129C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\has-symbols133119424945238252 1
 134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\posthtml\license133119417979598199 0
@@ -1192,7 +1192,7 @@
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\resolve\test\module_dir\ymodules\aaa133119424945666070 1
 156C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\type-fest\source\conditional-pick.d.ts133119417982977661 0
 125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-glob133129168483222513 1
-123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle3.html133137925308333000 0
+123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle3.html133137954337984670 0
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\make-dir\node_modules\semver\LICENSE133129168498131606 0
 148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\normalize-package-data\AUTHORS133119424943909302 0
 144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\util.promisify\.travis.yml133129168485503628 0
@@ -1666,7 +1666,7 @@
 124C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\squeak133129168487437440 1
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\path-exists\package.json133129168485095399 0
 136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\fill-range\LICENSE133129168483052498 0
-131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.9163f32c.js.map133137925308491084 0
+131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.9163f32c.js.map133137954338057733 0
 143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\json-buffer\test\index.js133129168485423590 0
 143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\shell-quote\test\quote.js133119424945288241 0
 146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\peek-readable\lib\index.d.ts133137890713167838 0
@@ -4277,7 +4277,7 @@
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2022\Number133119424957673121 1
 145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\ordered-binary\package.json133119417981679839 0
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\ordered-binary\README.md133119417982384706 0
-138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala_Trebalúger.b88db48c.png133137925197608254 0
+138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala_Trebalúger.b88db48c.png133137954240869293 0
 191C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133129168498986800 0
 169C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-mozjpeg\node_modules\npm-run-path\index.js133129168498725955 0
 178C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133119417987310862 0
@@ -4459,7 +4459,7 @@
 143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object-inspect\test\fn.js133119424945278243 0
 144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object-inspect\test\has.js133119424945298239 0
 179C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\svgo\plugins\convertShapeToPath.js133129168498041611 0
-148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala del Pilar, Ciutadella-med.png133137925258813802 0
+148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala del Pilar, Ciutadella-med.png133137954337086313 0
 166C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\normalize-url\node_modules\prepend-http\index.js133129168493555155 0
 150C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\nth-check\lib\esm\compile.js.map133119417983181731 0
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\object-inspect\test\indent-option.js133119424945348240 0
@@ -5294,7 +5294,7 @@
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-weakref\test\index.js133119424944602312 0
 136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-utf8\is-utf8.js133129168483379252 0
 138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-utf8\package.json133129168482624314 0
-147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\35943423682_053c3eb8f5_b.2ad60872.png133137925197598208 0
+147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\35943423682_053c3eb8f5_b.2ad60872.png133137954240867775 0
 165C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133119417979999472 0
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-symbol\.eslintignore133119424943909302 0
 134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\is-symbol\.nycrc133119424944264281 0
@@ -5543,7 +5543,7 @@
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2022\BigInt\multiply.js133119424952723984 0
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-svgo\node_modules\css-tree133129168499765303 1
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\import-fresh\index.d.ts133119417980837667 0
-132C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.833b0176.css.map133137925308491084 0
+132C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.833b0176.css.map133137954338057733 0
 138C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\import-fresh\license133119417979558242 0
 140C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\imagemin-webp\index.js133129168499601107 0
 146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-wrapper\node_modules\got133129168496476425 1
@@ -6280,7 +6280,7 @@
 154C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\gifsicle\node_modules\execa\index.js133129168497674542 0
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\end-of-stream\README.md133129168487058741 0
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-build\node_modules\cross-spawn\lib\util133129168496812187 1
-113C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img133137925284595213 1
+113C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img133137954337086313 1
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\gifsicle\node_modules\execa\license133129168497674542 0
 158C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\gifsicle\node_modules\execa\package.json133129168497674542 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\BinaryXor.js133119424946210822 0
@@ -6606,7 +6606,7 @@
 157C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\exec-buffer\node_modules\rimraf\LICENSE133129168494569035 0
 143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\balanced-match\LICENSE.md133119424944065958 0
 159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\exec-buffer\node_modules\rimraf\README.md133129168494609034 0
-137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala Trabaluja.d48478df.png133137925209436758 0
+137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala Trabaluja.d48478df.png133137954313421800 0
 159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\exec-buffer\node_modules\rimraf\rimraf.js133129168494609034 0
 161C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\exec-buffer\node_modules\get-stream\license133129168494609034 0
 194C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133119417986896902 1
@@ -6636,7 +6636,6 @@
 139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\browserslist\parse.js133119417981639848 0
 163C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\providers\common.d.ts133129168486821985 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\escape-string-regexp\index.js133119417979814872 0
-127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.49cdd84a.js133137925308333000 0
 179C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\bin-check\node_modules\cross-spawn\lib\util\escapeArgument.js133129168495603335 0
 146C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\escape-string-regexp\license133119417980247592 0
 137C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\escalade\index.d.ts133119417981749862 0
@@ -7026,7 +7025,7 @@
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\GetSubstitution.js133119424949618076 0
 176C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\cacheable-request\node_modules\get-stream\buffer-stream.js133129168493877448 0
 142C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\GetV.js133119424949825561 0
-122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\enlaces.html133137925308333000 0
+122C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\enlaces.html133137954337984670 0
 149C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\HasProperty.js133119424950154441 0
 144C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2021\Invoke.js133119424950512357 0
 145C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2019\ToInt16.js133119424956254800 0
@@ -7173,7 +7172,7 @@
 156C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\AdvanceStringIndex.js133119424945846801 0
 141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\BigInt133119424957633127 1
 175C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133119417981409880 0
-153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\1280px-Cala'n_Porter_(Menorca).e7a59063.png133137925177622184 0
+153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\1280px-Cala'n_Porter_(Menorca).e7a59063.png133137954211831843 0
 134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\coa\README.ru.md133129168484813207 0
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\es-abstract\2020\BigIntBitwiseOp.js133119424946003060 0
 164C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\package-manager\test\fixtures\packages133119417983875915 1
@@ -8065,7 +8064,7 @@
 166C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133119417984125230 0
 152C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\watcher\src\unix\legacy.cc133119417983271748 0
 131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-tree\dist133119417984956380 1
-141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala Macarella-med.d03fb700.png133137925307616996 0
+141C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala Macarella-med.d03fb700.png133137954327228862 0
 130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-tree\lib133119417986300798 1
 136C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-tree\README.md133119417987683022 0
 140C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\css-tree\lib\convertor133119417986210803 1
@@ -8874,7 +8873,7 @@
 172C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133119417981779853 0
 139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\argparse\lib\const.js133129168488706583 0
 135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\argparse\lib\help133129168489163450 1
-127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\presentacion.html133137925308333000 0
+127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\presentacion.html133137954337984670 0
 143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\argparse\lib\namespace.js133129168489423446 0
 139C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\argparse\lib\utils.js133129168489523446 0
 148C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\argparse\lib\help\formatter.js133129168489273471 0
@@ -9525,7 +9524,7 @@
 173C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source133119417987410850 1
 184C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133119417987380852 1
 197C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133119417987380852 0
-123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle2.html133137925308333000 0
+123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle2.html133137954337984670 0
 196C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133119417986730099 0
 187C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133119417984228707 0
 134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\pidtree.cmd133119424958145633 0
@@ -9870,7 +9869,7 @@
 153C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\settings.js133129168485503628 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\types133129168487937566 1
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\utils133129168488094229 1
-120C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.html133137925308333000 0
+120C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.html133137954337984670 0
 155C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\utils\fs.d.ts133129168487518081 0
 156C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@nodelib\fs.scandir\out\utils\index.js133129168485373615 0
 147C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\@jridgewell\set-array\LICENSE133119417979508176 0
@@ -10039,20 +10038,17 @@
 131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\svgo.ps1133119417995496748 0
 131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\uuid.cmd133129168507168594 0
 132C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\node_modules\.bin\which.ps1133119424958145633 0
-159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala_del_Pilar_-_Menorca_-_panoramio.e2fad9c1.png133137925252575148 0
-124C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\categoria.html133137925308333000 0
-123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle1.html133137925308333000 0
-123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle4.html133137925308333000 0
-131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.49cdd84a.js.map133137925308483050 0
-128C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.833b0176.css133137925308333000 0
-127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.9163f32c.js133137925308333000 0
-127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.a3f9f6a7.js133137925308333000 0
-131C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.a3f9f6a7.js.map133137925308483050 0
-134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\logoMenorca.85672662.png133137925177622184 0
-125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W1.54eac4e4.png133137925165351765 0
-125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W2.59a2678a.png133137925165351765 0
-125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W3.ee0e58ca.png133137925177622184 0
-130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Binigaus-med.png133137925252445097 0
-135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala Alcaufar-med.png133137925236720592 0
-135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala Pregonda-lpr.png133137925165351765 0
-143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Platja de Cavalleria -med.png133137925233559103 0
+159C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\Cala_del_Pilar_-_Menorca_-_panoramio.e2fad9c1.png133137954258998562 0
+124C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\categoria.html133137954337984670 0
+123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle1.html133137954337984670 0
+123C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\detalle4.html133137954337984670 0
+128C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.833b0176.css133137954337984670 0
+127C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\index.9163f32c.js133137954337984670 0
+134C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\logoMenorca.85672662.png133137954226530029 0
+125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W1.54eac4e4.png133137954226530029 0
+125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W2.59a2678a.png133137954226530029 0
+125C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\W3.ee0e58ca.png133137954211831843 0
+130C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Binigaus-med.png133137954259908575 0
+135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala Alcaufar-med.png133137954294921694 0
+135C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Cala Pregonda-lpr.png133137954240857769 0
+143C:\Users\josep\Desktop\JosepJF\MASTER_UOC\Semestre_2\Herramientas HTML y CSS\PEC1. Desarrollo de una web\dist\img\Platja de Cavalleria -med.png133137954288077817 0
