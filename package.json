@@ -19,5 +19,8 @@
     "parcel": "latest",
     "parcel-plugin-imagemin": "^4.0.2",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "imagemin": "^8.0.1"
   }
 }
