@@ -80,6 +80,7 @@ nav ul li .nav-links li:hover a {
     margin-top: 140px;
     padding: 120px;
     background-image: url(img/Cala\ Macarella-med.png);
+    clip-path: polygon(0 73%, 6% 59%, 0 49%, 0 0, 100% 0, 100% 70%, 92% 64%, 95% 87%, 86% 95%, 64% 89%, 28% 70%, 14% 77%);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
