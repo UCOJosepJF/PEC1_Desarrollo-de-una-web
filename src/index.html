@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en">img/logoMenorca.webp
 
 <head>
   <meta charset="utf-8" />
@@ -14,7 +14,7 @@
   <header>
     <nav class="container">
       <ul>
-        <li id="nav-logo"><a href="index.html"><img src="img/logoMenorca.png" alt="Logo"></a></li>
+        <li id="nav-logo"><a href="index.html"><img src="img/logoMenorca.webp" alt="Logo"></a></li>
         <li>
           <ul class="nav-links">
             <li><a href="categoria.html">Categoría</a></li>
@@ -31,33 +31,34 @@
     <div class="container-btn-theme">
       <!-- <button class="btn-theme" onclick="changeTheme()"></button>
       <button class="btn-theme theme-0" onclick="changeTheme(0)"></button> -->
-      <button class="btn-theme theme-1" onclick="changeTheme(1)"></button>
-      <button class="btn-theme theme-2" onclick="changeTheme(2)"></button>
+      <button class="btn-theme theme-1 anim-show-r" onclick="changeTheme(1)"></button>
+      <button class="btn-theme theme-2 anim-show-l" onclick="changeTheme(2)"></button>
     </div>
   </section>
   <!-- =============== PRESENTACIÓN ========================================================= -->
   <section id="intro" class="container">
     <p class="home-text">
       Llegas a una pequeña isla, playas de ensueño, aguas cristalines, paisajes
-      parasiacos... No estas soñando, bienvenido a Menorca. Menorca es una isla española situada en la parte nororiental del archipiélago balear, en el mar Mediterráneo 
+      parasiacos... No estas soñando, bienvenido a Menorca. Menorca es una isla española situada en la parte nororiental
+      del archipiélago balear, en el mar Mediterráneo
     </p>
     <p class="home-text">No pierdas la oportunidad de explorar esta maravillosa isla y conocer sus unicas playas. </p>
     <div class="presentation">
       <a href="categoria.html">
         <figure>
-          <img src="img/W1.png" alt="">
+          <img srcset="img/W1-320.png, img/W1-480.png 1.5x, img/W1.png 2x" src="img/W1.png" alt="">
           <figcaption>Categoría</figcaption>
         </figure>
       </a>
       <a href="presentacion.html">
         <figure>
-          <img src="img/W3.png" alt="">
+          <img srcset="img/W3-320.png, img/W3-480.png 1.5x, img/W3.png 2x" src="img/W3.png" alt="">
           <figcaption>Presentación</figcaption>
         </figure>
       </a>
       <a href="enlaces.html">
         <figure>
-          <img src="img/W2.png" alt="">
+          <img srcset="img/W2-320.png, img/W2-480.png 1.5x, img/W2.png 2x" src="img/W2.png" alt="">
           <figcaption>Enlaces</figcaption>
         </figure>
       </a>
@@ -66,6 +67,13 @@
   <!-- =============== FOOTER ========================================================= -->
   <footer>
     <div class="container">
+      <img src="img/logoMenorca.webp" alt="">
+      <ul class="footer-links">
+        <li><a href="index.html">Menorca</a></li>
+        <li><a href="categoria.html">Categoría</a></li>
+        <li><a href="presentacion.html">Presentación</a></li>
+        <li><a href="enlaces.html">Enlaces</a></li>
+      </ul>
       <ul id="copyrigth">
         <li>2022 © Josep Janer Florit</li>
       </ul>

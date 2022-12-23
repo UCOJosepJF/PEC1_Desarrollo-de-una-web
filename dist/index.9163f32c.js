@@ -1,2 +1,0 @@
-var WALLPAPER=document.getElementById("wallpaper");function changeTheme(a){switch(console.log("Interactive Javascript"),console.log(a),a){case 0:WALLPAPER.style.backgroundImage="url('img/Cala Macarella-med.png')";break;case 1:WALLPAPER.style.backgroundImage="url('img/Cala Alcaufar-med.png')";break;case 2:WALLPAPER.style.backgroundImage="url('img/Cala En Turqueta-med.png')";break;default:WALLPAPER.style.backgroundImage="url('img/2560px-Macarella_16.png')"}}
-//# sourceMappingURL=index.9163f32c.js.map

@@ -71,7 +71,7 @@ nav ul li .nav-links li:hover a {
 }
 
 #active {
-    color: rgb(38, 190, 255); 
+    color: rgb(38, 190, 255);
 }
 
 /* =============== WALLPAPER =========================================================*/
@@ -81,6 +81,7 @@ nav ul li .nav-links li:hover a {
     padding: 120px;
     background-image: url(img/Cala\ Macarella-med.png);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     text-align: center;
 }
@@ -91,7 +92,58 @@ nav ul li .nav-links li:hover a {
     padding: 0px;
     margin: auto;
     text-transform: uppercase;
+    animation-name: wallpaper-start;
+    animation-duration: 2s;
+    position: relative;
 }
+
+@keyframes wallpaper-start {
+    from {
+        color: rgba(255, 255, 255, 0);
+        top: -600px;
+    }
+
+    to {
+        color: white;
+        top: 0px;
+    }
+}
+
+.anim-show-r {
+    position: relative;
+    animation-name: anim-show-r;
+    animation-duration: 2s;
+}
+
+.anim-show-l {
+    position: relative;
+    animation-name: anim-show-l;
+    animation-duration: 2s;
+}
+
+@keyframes anim-show-r {
+    from {
+        right: -600px;
+    }
+
+    to {
+        color: white;
+        right: 0px;
+    }
+}
+
+@keyframes anim-show-l {
+    from {
+        color: rgba(255, 255, 255, 0);
+        left: -600px;
+    }
+
+    to {
+        color: white;
+        left: 0px;
+    }
+}
+
 
 /* =============== INTRO =========================================================*/
 
@@ -124,7 +176,14 @@ nav ul li .nav-links li:hover a {
     width: 100%;
     height: 300px;
     object-fit: cover;
+    transition: all 2s ease;
+    filter: grayscale(0%);
 }
+
+.presentation a figure img:hover {
+    filter: grayscale(100%);
+}
+
 
 figure {
     display: inline-block;
@@ -148,7 +207,7 @@ figure figcaption {
     background-color: rgb(0, 38, 92);
 }
 
-.home-text{
+.home-text {
     margin-bottom: 40px;
 }
 
@@ -164,6 +223,7 @@ figure figcaption {
 .btn-theme:hover {
     cursor: pointer;
 }
+
 /* =============== FOOTER =========================================================*/
 
 footer {
@@ -173,7 +233,7 @@ footer {
     padding-bottom: 30px;
 }
 
-footer .container ul li {
+#copyrigth li {
     color: #FFFFFF;
     list-style: none;
     text-decoration: none;
@@ -185,6 +245,27 @@ footer .container ul li {
 
 .content {
     min-height: calc(100vh - 193px);
+}
+
+.footer-links {
+    margin-bottom: 20px;
+}
+
+.footer-links li {
+    display: inline;
+}
+
+.footer-links li a {
+    color: rgb(0, 106, 255);
+    text-decoration: none;
+}
+
+footer .container img{
+    transition: transform .7s ease-in-out;
+}
+
+footer .container img:hover{
+    transform: rotate(360deg);
 }
 
 /* =============== CATEGORIAS =========================================================*/
@@ -240,12 +321,12 @@ footer .container ul li {
     line-height: 160%;
 }
 
-.category-title:hover{
+.category-title:hover {
     color: rgb(0, 106, 255);
 }
 
 
-.btn-detalles{
+.btn-detalles {
     text-decoration: none;
     color: white;
     background-color: rgb(0, 106, 255);
@@ -253,7 +334,7 @@ footer .container ul li {
     border-radius: 5px;
 }
 
-.btn-detalles:hover{
+.btn-detalles:hover {
     background-color: rgb(0, 64, 154);
 }
 
@@ -320,6 +401,13 @@ footer .container ul li {
     color: rgb(0, 68, 163);
 }
 
+.img-enlaces img {
+    padding-bottom: 60px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
 /* =============== DETALLE =========================================================*/
 
 /* =============== MEDIA QUERIES =========================================================*/
@@ -327,6 +415,10 @@ footer .container ul li {
 @media (min-width: 380px) {
     header {
         height: 140px;
+    }
+
+    #wallpaper {
+        margin-top: 120px;
     }
 }
 
@@ -336,7 +428,7 @@ footer .container ul li {
     }
 
     #wallpaper {
-        margin-top: 140px;
+        margin-top: 120px;
         padding: 120px;
     }
 }
@@ -375,7 +467,7 @@ footer .container ul li {
     }
 
     #wallpaper {
-        margin-top: 75px;
+        margin-top: 55px;
         padding: 220px;
     }
 
