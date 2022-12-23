@@ -257,15 +257,15 @@ footer .container ul li {
 }
 
 .footer-links li a {
-    color:  rgb(38, 190, 255);
+    color: rgb(38, 190, 255);
     text-decoration: none;
 }
 
-footer .container img{
+footer .container img {
     transition: transform .7s ease-in-out;
 }
 
-footer .container img:hover{
+footer .container img:hover {
     transform: rotate(360deg);
 }
 
@@ -550,5 +550,24 @@ footer .container img:hover{
 
     #wallpaper h1 {
         font-size: 4.8rem;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
+#enigma {
+    animation-name: enigma;
+    animation-iteration-count: infinite;
+}
+
+@keyframes enigma {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
     }
 }
